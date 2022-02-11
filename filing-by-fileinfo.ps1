@@ -1,6 +1,7 @@
 # Ref : https://github.com/chrisdee/Scripts/blob/master/PowerShell/Working/files/SortAndMoveFilesToDateFolders.ps1
 # Ref : https://powershellmagazine.com/2015/04/13/pstip-use-shell-application-to-display-extended-file-attributes/
 # Ref : https://geekeefy.wordpress.com/2016/10/15/powershell-get-mp3mp4-files-metadata-and-how-to-use-it-to-make-you-life-easy/
+# Ref : https://hasithmagage.medium.com/want-to-rename-your-photos-by-the-date-taken-using-powershell-ad331826b2d0
 
 # Get the files which should be moved, without folders
 $sourcePath = 'C:\Users\XXX\OneDrive\Pictures\SourcePath'
